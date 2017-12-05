@@ -1,0 +1,23 @@
+{
+  "name": "senior5-webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "path": "^0.12.7",
+    "style-loader": "^0.19.0",
+    "stylesheet-loader": "^0.4.20",
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
